@@ -11,5 +11,5 @@ Hi 👋
 
 📫 How to reach me: +974 545923565
 
-🤔 Preferred Job Location in United Arab Emirates : AbuDhabi or Dubai or Any Remote Testing Jobs
+🤔 Preferred Job Location in United Arab Emirates : AbuDhabi or Dubai or Any Remote Testing Oppurtunities
 
