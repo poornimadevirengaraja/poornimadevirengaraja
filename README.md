@@ -1,9 +1,9 @@
 Hi 👋
 👋 I’m PoornimaDevi, Senior Software Test Engieer with solid knowledge in Manual testing and Automation testing.
 
-👀 I’m interested in all aspects in quality field including Automation testing , API testing, Rest Assured API Testing, Postman Tool.
+👀 I’m interested in all aspects in quality field including Automation testing , API testing, Rest Assured API Testing, Postman Tool, BDD Cucumber.
 
-💞️ I’m looking to collaborate on different testing fields such as Manual testing , automation testing, API testing.
+💞️ I’m looking to collaborate on different testing fields such as Manual testing , Automation testing, API testing.
 
 📫 you can reach me on my linkedin profile at https://www.linkedin.com/in/poornimadevirengaraja/
 
