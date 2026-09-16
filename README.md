@@ -1,5 +1,5 @@
 Hi 👋
-👋 I’m PoornimaDevi, Senior Software Test Engieer with solid knowledge in Manual testing and Automation testing.
+👋 I’m PoornimaDevi, Lead or Senior Software Test Engieer with solid knowledge in Manual testing and Automation testing.
 
 👀 I’m interested in all aspects in quality field including Automation testing ,Playwright, API testing, Rest Assured API Testing, Postman Tool, BDD Cucumber.
 
