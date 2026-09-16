@@ -7,7 +7,7 @@ Hi 👋
 
 📫 you can reach me on my linkedin profile at https://www.linkedin.com/in/poornimadevirengaraja/    How to reach me: +974 545923565
 
-🌱 Certifications Done in Rest Assured API Testing & Postman Tool, Selenium WebDriver in Java Automation Testing, Full Course completion in python, Typescript and Java script in Playwright Automation
+🌱 Certifications Done in  Typescript and Java script in Playwright Automation,  Rest Assured API Testing & Postman Tool, Selenium WebDriver in Java Automation Testing, Full Course completion in python,
 
 🤔 Preferred Job Location in United Arab Emirates : Abu Dhabi or Dubai or Any Remote Testing Opportunities or Chennai or Bangalore
 
