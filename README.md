@@ -1,7 +1,7 @@
 Hi 👋
 👋 I’m PoornimaDevi, Lead or Senior Software Test Engieer with solid knowledge in Manual testing and Automation testing.
 
-👀 I’m interested in all aspects in quality field including Automation testing ,Playwright, API testing, Rest Assured API Testing, Postman Tool, BDD Cucumber.
+👀 I’m interested in all aspects in quality field including Automation testing, Playwright using AI and MCP Agents, API testing using Playwright and AI, Rest Assured API Testing, Postman Tool, BDD Cucumber using playwright. 
 
 💞️ I’m looking to collaborate on different testing fields such as Manual testing , Automation testing, API testing.
 
