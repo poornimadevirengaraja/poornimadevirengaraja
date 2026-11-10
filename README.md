@@ -6,7 +6,7 @@ Hi 👋
 💞️ I’m looking to collaborate on different testing fields such as Manual testing , Automation testing, API testing.
 
 📫 you can reach me on my linkedin profile at https://www.linkedin.com/in/poornimadevirengaraja/    
-    How to reach me: UAE number :    +974 545923565 ( whats app) 
+    How to reach me: UAE number :    +974 545923565 (Whats app) 
                      Indian number : +91 8754451404
 
 🌱 Certifications Done in  Typescript and Java script in Playwright Automation, API testing with Playwright,  Rest Assured API Testing & Postman Tool, Selenium WebDriver in Java Automation Testing, Full Course completion in python, Typescript and Java script in Playwright Automation using AI and MCP agents like Planner, Generator and Healer agents.
